@@ -105,6 +105,7 @@ body {
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
+    cursor: pointer;
 
   }
 
@@ -143,7 +144,6 @@ body {
    }
 
 .section-title .text {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
 }
@@ -162,7 +162,6 @@ body {
 }
 
 .team-list .text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
@@ -177,7 +176,6 @@ body {
 }
 
 .projects .text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
 }
